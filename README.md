@@ -175,19 +175,19 @@
       <div id="pizzaCarousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="images/slide1.jpg" class="d-block w-100" alt="Cheese Pizza" />
+            <img src="https://raw.githubusercontent.com/alsornak/Pizza-Delight/refs/heads/main/client/public/images/cheese.jpeg" class="d-block w-100" alt="Cheese Pizza" />
           </div>
           <div class="carousel-item">
-            <img src="images/slide2.jpg" class="d-block w-100" alt="Pepperoni Pizza" />
+            <img src="https://raw.githubusercontent.com/alsornak/Pizza-Delight/refs/heads/main/client/public/images/crazy-pepperoni.jpeg" class="d-block w-100" alt="Pepperoni Pizza" />
           </div>
           <div class="carousel-item">
-            <img src="images/slide3.jpg" class="d-block w-100" alt="Pizza Oven" />
+            <img src="https://www.tasteofhome.com/wp-content/uploads/2023/04/The-6-Best-Pizza-Ovens-on-Amazon-for-a-Restaurant-Quality-Pie-Every-Time_social_via-amazon.com_.jpg" class="d-block w-100" alt="Pizza Oven" />
           </div>
           <div class="carousel-item">
-            <img src="images/slide4.jpg" class="d-block w-100" alt="Dining area" />
+            <img src="https://offerengine.theentertainerme.com/piza-e-vino-melville-x23945998/merchant_profile_%22hero%22_image_%28retina%29202407021454.jpg" class="d-block w-100" alt="Dining area" />
           </div>
           <div class="carousel-item">
-            <img src="images/slide5.jpg" class="d-block w-100" alt="Italian pizza with basil" />
+            <img src="https://thumbs.dreamstime.com/b/italian-pizza-margherita-fresh-tomatoes-mozzarella-basil-marjoram-43460353.jpg" class="d-block w-100" alt="Italian pizza with basil" />
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#pizzaCarousel" data-bs-slide="prev">
@@ -206,8 +206,8 @@
         <img src="https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=D1z4xPCs-qQIZyUqRcHrnsJSJy_YbUD9udOrXpilNpI=" alt="Pizza close-up" />
         <img src="https://offerengine.theentertainerme.com/piza-e-vino-melville-x23945998/merchant_profile_%22hero%22_image_%28retina%29202407021454.jpg" alt="Dining area" />
         <img src="https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=D1z4xPCs-qQIZyUqRcHrnsJSJy_YbUD9udOrXpilNpI=" alt="Pizza slice with cheese pull" />
-        <img src="images/gallery4.jpg" alt="Table setup" />
-        <img src="images/gallery5.jpg" alt="Wood-fired oven" />
+        <img src="https://images.squarespace-cdn.com/content/v1/5a4c0a7c18b27d4da21b1a12/1ff2ee41-fefa-4007-9328-30fa73ffb899/2023.04.25n.jpg?format=1500w" alt="Table setup" />
+        <img src="https://cdn.shopify.com/s/files/1/0052/1512/5553/files/image_3_480x480.png?v=1661243469" alt="Wood-fired oven" />
       </div>
     </section>
 
