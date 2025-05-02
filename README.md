@@ -115,7 +115,7 @@
   <!-- Header -->
   <header>
     <div class="nav-container">
-      <img src="images/logo.png" alt="Pizza Delight Logo" width="150" />
+      <img src="https://media-cdn.tripadvisor.com/media/photo-s/16/ae/b3/4a/logo.jpg" alt="Pizza Delight Logo" width="150" />
       <nav aria-label="Main navigation">
         <ul>
           <li><a href="#about">About</a></li>
@@ -148,7 +148,7 @@
           <p>We are a family-owned pizzeria bringing traditional Italian recipes to your table. Every pizza is made with love and the freshest ingredients.</p>
         </div>
         <div class="col-md-6">
-          <img src="images/about.jpg" alt="Inside Pizza Delight restaurant" class="about-img" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSy6VI19mvEUhkUU4knxT-GbIlIxKeUWfx3A&s" alt="Inside Pizza Delight restaurant" class="about-img" />
         </div>
       </div>
     </section>
