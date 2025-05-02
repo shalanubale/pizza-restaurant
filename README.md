@@ -8,6 +8,107 @@
   <meta name="description" content="Enjoy delicious handcrafted pizzas at Pizza Delight. Authentic flavors, fresh ingredients, and warm hospitality.">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background: #fff;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .nav-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 2rem;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 1rem;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333;
+    }
+
+    .hero {
+      background-image: url('images/hero-pizza.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+    }
+
+    .hero h1 {
+      font-size: 3rem;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+    }
+
+    section {
+      padding: 4rem 2rem;
+    }
+
+    .about-us, .menu, .gallery, .find-us {
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .about-img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .menu-item {
+      margin-bottom: 2rem;
+    }
+
+    .grid-gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+
+    .grid-gallery img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    footer {
+      background-color: #222;
+      color: #fff;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    @media (max-width: 768px) {
+      nav ul {
+        flex-direction: column;
+      }
+
+      .nav-container {
+        flex-direction: column;
+      }
+
+      .hero h1 {
+        font-size: 2rem;
+      }
+    }
+  </style>
   </head>
 <body>
 
